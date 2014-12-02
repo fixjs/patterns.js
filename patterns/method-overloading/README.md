@@ -18,3 +18,6 @@ function getData(){
 With respect to the validation process and preventing other developers from calling the function incorrectly, the easiest way is diregarding the issue and relying on the API's documentaion or helpful inline comments. This way, since we don't do anything, we would even have speed improvements.
 
 **BUT** regardless of checking for valid arguments, in the code snippet above, we also need a kind of type checking process to provide different signatures for the same function, which **can not be disregarded**.
+
+# John Resig: JavaScript Method Overloading
+John Resig has written a blog [post](http://ejohn.org/blog/javascript-method-overloading/) about this pattern which is one of the most popular ways of implementing Method Overloading in JavaScript.
