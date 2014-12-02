@@ -19,5 +19,4 @@ function getData(){
   //...
 }
 ```
-
-With respect to the validation process and preventing other developers from calling the function incorrectly, the easiest way is diregarding the issue and relying on the API's documentaion or helpful inline comments. This way, since we don't do anything, we would even have speed improvements...
+[Read more about this pattern.](https://github.com/fixjs/patterns.js/blob/master/patterns/method-overloading.md)
