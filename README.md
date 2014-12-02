@@ -6,7 +6,7 @@ As JavaScript developers we have always had a whole bunch of repetitive tasks an
 
 The initial point which made me set up this repo, was a simple known pattern:
 
-##JavaScript Method Overloading in our public APIs?
+##JavaScript Method Overloading
 I have faced with this very question several times and in practice, I have answered it in couple of different ways. Before walking through the possible patterns, let's start with this code snippet:
 
 ```
