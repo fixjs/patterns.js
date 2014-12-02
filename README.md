@@ -19,4 +19,4 @@ function getData(){
   //...
 }
 ```
-[Read more about this pattern.](https://github.com/fixjs/patterns.js/blob/master/patterns/method-overloading.md)
+[Read more about this pattern.](https://github.com/fixjs/patterns.js/tree/master/patterns/method-overloading)
