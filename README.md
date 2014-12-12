@@ -2,7 +2,7 @@
 
 It's not an application or a JavaScript library, it is here to showcase the JavaScript's best practices and coding style guides.
 
-As JavaScript developers we have always had a whole bunch of repetitive tasks and patterns to deal with and I thought why not gathering all together and put them forward to the JavaScript community.
+As JavaScript developers we have always had whole bunch of repetitive tasks and patterns to deal with and I thought why not gathering all together and put them forward to the JavaScript community.
 
 The initial point which made me set up this repo, was a simple known pattern:
 
@@ -19,4 +19,4 @@ function getData(){
   //...
 }
 ```
-[Read more about this pattern.](https://github.com/fixjs/patterns.js/blob/master/patterns/method-overloading.md)
+[Read more about this pattern.](https://github.com/fixjs/patterns.js/tree/master/patterns/method-overloading)
